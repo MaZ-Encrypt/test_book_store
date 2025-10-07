@@ -1,6 +1,6 @@
 # 🧪 Test Scenarios, Test Cases, and Bug Reports
 
-We have documented our testing efforts, including detailed test scenarios, test cases, and identified bugs. You can access the full spreadsheet using the link below:
+This document outlines the testing efforts, including detailed test scenarios, test cases, and identified bugs. You can access the full spreadsheet using the link below:
 
 **[👉 Test Scenarios and Reports]([[https://docs.google.com/spreadsheets/d/11nbyCqAWKi8QKRguTV4gK8rkKqtQ0o0dYreZog1mkRg/edit?usp=sharing]])**:
 https://docs.google.com/spreadsheets/d/11nbyCqAWKi8QKRguTV4gK8rkKqtQ0o0dYreZog1mkRg/edit?usp=sharing
@@ -20,7 +20,7 @@ https://docs.google.com/spreadsheets/d/11nbyCqAWKi8QKRguTV4gK8rkKqtQ0o0dYreZog1m
 
   <div class="section">
     <h2>📝 Project Description</h2>
-    <p>This web application create for pratices testing purpose</p>
+    <p>This web application was created for practice testing purposes</p>
   </div>
 
   <div class="section">
