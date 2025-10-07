@@ -91,7 +91,7 @@ https://docs.google.com/spreadsheets/d/11nbyCqAWKi8QKRguTV4gK8rkKqtQ0o0dYreZog1m
   </div>
   <br>
   <h1>API Specification</h1>
-<p>note: the application only contains post and get due to litmited of HTML Form</p>
+<p>Note: the application only contains post and get due to litmited of HTML Form</p>
 <p><strong>Base URL:</strong> http://localhost:5000</p>
 
 <h2>🛡️ Auth </h1>
